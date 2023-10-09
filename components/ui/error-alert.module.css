@@ -1,0 +1,13 @@
+.error {
+    background: #ffb0ab;
+    width: 50%;
+    margin: 1rem auto;
+    padding: 1.5rem;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.error h1 {
+
+    color: rgb(169, 0, 0);
+}
